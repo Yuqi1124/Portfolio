@@ -1,0 +1,5 @@
+body {
+    background-image: url("/public/image/leone.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
