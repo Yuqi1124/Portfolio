@@ -43,7 +43,7 @@ function App() {
 
                       <div className="large-top pb-5 container fw-light fs-4">
                           <p><i className="fa-regular fa-copyright"></i> 2022 Yueqi Mao All Rights Reserve</p>
-                          <span><a href="#">Linkedin</a> | <a href="#">Email</a></span>
+                          <span><a href="https://www.google.com/">Linkedin</a> | <a href="https://www.google.com/">Email</a></span>
                       </div>
 
                   </div>
