@@ -1,26 +1,26 @@
 [
   {
+    "name" : "Persona",
+    "text" : "Explore the User’s View: Create personas and storyboards for observed real users.",
+    "img" : "/image/Persona.png",
+    "link" : "https://calmturtle124.github.io/persona/"
+  },
+  {
     "name" : "Redesign",
-    "text" : "Redesign the career webpage for IEX.",
+    "text" : "Explore Website Redesign: Redesign the career webpage for IEX using HTML/CSS and Bootstrap.",
     "img" : "/image/Redesign.png",
     "link" : "https://calmturtle124.github.io/Redesign/"
   },
   {
-    "name" : "Development",
-    "text" : "Build a fake Tatte Bakery using React.js.",
-    "img" : "/image/Development.png",
-    "link" : "https://calmturtle124.github.io/Development/"
-  },
-  {
     "name" : "Iterative Design",
-    "text" : "Build an interactive interface prototype for Chowdeck.",
+    "text" : "More Design and Explore User Testing: Build an interactive interface prototype for Chowdeck.",
     "img" : "/image/Iterative.png",
     "link" : "https://calmturtle124.github.io/Iterative/"
   },
   {
-    "name" : "Hoome",
-    "text" : "develop an Airbnb-like web application that provides users with B&B information for booking.",
-    "img" : "/image/Hoome.png",
-    "link" : "#"
+    "name" : "Development",
+    "text" : "Explore more web dev: Get familiar with React.js and use it to build  a fake Tatte Bakery.",
+    "img" : "/image/Development.png",
+    "link" : "https://calmturtle124.github.io/Development/"
   }
 ]

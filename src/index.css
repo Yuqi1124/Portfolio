@@ -18,11 +18,15 @@ code {
 }
 
 .large-top {
-  margin-top: 170px;
+  padding-top: 170px;
 }
 
 .larger-top {
-  margin-top: 210px;
+  padding-top: 210px;
+}
+
+.large-bottom {
+  padding-bottom: 170px;
 }
 
 
